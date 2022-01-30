@@ -1,6 +1,6 @@
-# GOW - Games on Whales [![Discord](https://img.shields.io/discord/856434175455133727.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/kRGUDHNHt2)
+# Docker Sunshine 
 
-Stream games (and GUI) running on Docker with HW acceleration and low latency! 
+Stream games (and GUI) running on Docker with HW acceleration and low latency! Using the Sunshine server which uses the NVidia GameStream protocol.
 
 Read more on our [documentation](https://games-on-whales.github.io/gow/)
 
